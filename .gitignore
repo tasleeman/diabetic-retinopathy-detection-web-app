@@ -6,7 +6,7 @@ __pycache__/
 *.py[cod]
 
 # Large data files
-*.pth
+#*.pth
 *.h5
 *.bin
 *.zip
