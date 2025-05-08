@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large data files
+*.pth
+*.h5
+*.bin
+*.zip
+*.pkl
+*.joblib
+
+# Dataset folders
+test_images/
+train_images/
+*.csv
